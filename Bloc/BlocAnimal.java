@@ -1,0 +1,5 @@
+class BlocAnimal extends Bloc{
+  
+  
+
+}
