@@ -30,5 +30,6 @@ class Main {
     niveau.afficherTableau();
     
     //test2
+    Vue vue = new Vue();
   }
 }
