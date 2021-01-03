@@ -28,5 +28,7 @@ class Main {
 
     niveau.detruireBloc(2,2);
     niveau.afficherTableau();
+    
+    //test
   }
 }
